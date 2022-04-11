@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning JavaSCript, ReactJs and ReactNative
+- 🌱 I’m currently learning HTML, CSS, JavaSCript and ReactJs.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiago-moreira-45888490)](https://br.linkedin.com/in/thiago-moreira-45888490)
